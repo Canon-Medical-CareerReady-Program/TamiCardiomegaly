@@ -1,0 +1,1 @@
+cardiomegaly ratio = 0.5957120980091883 The heart measurement is 389 The thorax measurement is 653
